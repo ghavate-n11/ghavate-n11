@@ -1,11 +1,11 @@
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00BFFF&width=750&lines=👋+Hey+there!+I'm+Nilesh;Industrial+Tech.+Trainer+%7C+Java+FS+Intern;Oracle+Certified+%7C+NPTEL+Certified;Code.+Create.+Inspire." alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00BFFF&width=750&lines=👋+Hey+there!+I'm+Nilesh;Industrial+Tech.+Trainer/Mentor+%7C+Java+FS+Intern;Oracle+Certified+%7C+NPTEL+Certified;Code.+Create.+Inspire." alt="Typing Animation" />
 
 
 
 ---
 
-<h3 >Industrial Tech. Trainer | Java Full Stack Developer Intern | Oracle Certified | NPTEL Certified | University Ranker</h3>
+<h3 >Industrial Tech. Trainer/Mentor | Java Full Stack Developer Intern | Oracle Certified | NPTEL Certified | University Ranker</h3>
 
 ---
 
