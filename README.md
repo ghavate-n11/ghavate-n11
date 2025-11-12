@@ -84,8 +84,8 @@ I focus on building **secure, efficient, and scalable applications** using **Spr
 
 | 🏅 Achievement | 📍 Details | 🗓️ Year |
 |----------------|------------|----------|
-| 🥇 **1st Rank – MCA (University & College Level)** | *SVERI’s COE, Pandharpur & PAHS University, Solapur* | 2024 |
 | 🎖 **Dashing Debut Award – Six Phrase (A Veranda Enterprises)** | *Recognized for excellence as a Technical Trainer/Mentor* | 2025 |
+| 🥇 **1st Rank – MCA (University & College Level)** | *SVERI’s COE, Pandharpur & PAHS University, Solapur* | 2025 |
 | 👑 **Winner – LOGO Design Competition, Techno Byte 2K24** | *Awarded 1st Prize for creative logo design in Tech Fest* | 2024 |
 | 🏆 **Best Campaigning Award – Techno Byte 2K24** | *Honored for leadership & team coordination during event* | 2024 |
 | 📘 **Research Paper – Net Shield (Network Sniffing & Security Analyzer)** | *Published at National Conference, Bidar* | 2025 |
