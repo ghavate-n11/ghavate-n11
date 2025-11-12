@@ -77,10 +77,25 @@ I focus on building **secure, efficient, and scalable applications** using **Spr
 ---
 
 ### 🧠 Research & Achievements 🏅
-- 📘 *Net Shield – Network Sniffing & Security Analyzer* (Bidar, 2025)  
-- 📗 *PG Room Finder Application* (Techno-Societal, 2024)  
-- 🏆 *Best Campaigning Award – Techno Byte 2K24*  
-- 🎖 *1st Rank – MCA (University & College Level)*  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🏆+My+Achievements;💫+Proud+Moments+of+My+Journey" alt="Achievements Typing Animation"/>
+</p>
+
+| 🏅 Achievement | 📍 Details | 🗓️ Year |
+|----------------|------------|----------|
+| 🥇 **1st Rank – MCA (University & College Level)** | *SVERI’s COE, Pandharpur & PAHS University, Solapur* | 2024 |
+| 🎖 **Dashing Debut Award – Six Phrase (A Veranda Enterprises)** | *Recognized for excellence as a Technical Trainer/Mentor* | 2025 |
+| 👑 **Winner – LOGO Design Competition, Techno Byte 2K24** | *Awarded 1st Prize for creative logo design in Tech Fest* | 2024 |
+| 🏆 **Best Campaigning Award – Techno Byte 2K24** | *Honored for leadership & team coordination during event* | 2024 |
+| 📘 **Research Paper – Net Shield (Network Sniffing & Security Analyzer)** | *Published at National Conference, Bidar* | 2025 |
+| 📗 **Research Paper – PG Room Finder Application** | *Presented at Techno-Societal Conference* | 2024 |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dashing%20Debut%20Award%20🏅-FFD700?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" />
+</p>
+
+✨ *“Every achievement is a milestone on the journey of passion, perseverance, and purpose.”* ✨  
 
 ---
 
