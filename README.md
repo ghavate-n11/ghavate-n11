@@ -72,7 +72,7 @@ I constantly refine my skills through **DSA + LeetCode practice + Deep project w
 `Android (Java)` · `Mobile Application Development (MAD)`
 
 #### 💡 Soft Skills
-`Leadership` · `Problem Solving` · `Team Collaboration` · `Adaptability` · `Time Management`
+`Leadership` · `Problem Solving` · `Team Collaboration` · `Adaptability` · `Time Management` . 'Punctuality (Highly Disciplined)'
 
 ---
 
