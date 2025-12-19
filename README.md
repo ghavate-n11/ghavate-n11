@@ -1,80 +1,82 @@
-<!-- =============================== -->
-<!-- 💫 NILESH GHAVATE | README.MD 💫 -->
-<!-- =============================== -->
+<h2 align="center">
+🌟 Industrial Tech Trainer & Mentor | Java & Android  Developer | University Rank Holder
+</h2>
 
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00BFFF&width=780&lines=👋+Hey+there!+I'm+Nilesh;Industrial+Tech.+Trainer+%7C+Java+FS+Developer+Intern;Oracle+Certified+%7C+NPTEL+Certified+%7C+Award+Winner;Code.+Create.+Inspire." alt="Typing Animation" />
-</p>
 
----
-
-<h3 align="center">Industrial Tech Trainer & Mentor | Java Full Stack Developer | University Ranker | Award Winner</h3>
-
-<h4 align="center">💻 Java & Android Developer | ☁️ Cloud Enthusiast | 🔐 Security Researcher</h4>
 
 ---
 
 ## 🌟 About Me
-I am a passionate and impact-driven **Industrial Trainer at Six Phrase (A Veranda Enterprises)**, mentoring students on **Core Java, Advanced Java, DBMS, and Android Development** across multiple engineering and MCA colleges.
 
-I previously served as a **Java Full Stack Developer Intern** at  
+I am a passionate and impact-driven **Industrial Trainer at Six Phrase (A Veranda Enterprises)**, currently at **Parul University, Gujarat**, mentoring students on **Core Java, Advanced Java, DBMS, and Android Development** across multiple engineering colleges.
+
+
+Previously, I served as a **Java Full Stack Developer Intern** at  
 **Symbiosis Digital University – Capgemini Collaboration, Pune**,  
-where I worked on automation, Java, database systems, and enterprise-level project workflows.
+where I worked on **automation, backend systems, database management, and enterprise-grade project workflows**.
 
-🎯 My mission is simple:  
-> **Teach how the industry works — not just the syllabus.**
+🎯 **Mission:**  
+> Teach how the industry works — not just the syllabus.
 
-I love building projects that are **secure, scalable, and real-world ready** using:
-- **Spring Boot, React.js, Android(Java/Kotlin), and MySQL**
-- Security tools, cloud, CI/CD & automation
+I enjoy building projects that are **secure, scalable, and production-ready** using:
+- **Spring Boot, React.js, Android (Java/Kotlin), and MySQL**  
+- Security tools, cloud, CI/CD & automation  
 
-I constantly refine my skills through **DSA + LeetCode practice + Deep project work.**
+I constantly enhance my skills through **Data Structures & Algorithms, LeetCode practice, and deep project development**.
 
 ---
 
-## 🧠 Quick Facts
-- ⭐ **Wall of Fame Award – Six Phrase (A Veranda Enterprises)**  
-- 🎖️ **Dashing Debut Award – Six Phrase (A Veranda Enterprises)**  
+## 🧠 Quick Facts & Recognitions
+- ⭐ **Wall of Fame Award – Six Phrase**  
+- 🎖️ **Dashing Debut Award – Six Phrase**  
 - 🥇 **Rank 1 MCA – SVERI’s COE & PAHS University (Solapur)**  
+- 🎓 **Meritorious Student – MCA 1st & 2nd Year** | SVERI’s COE, Pandharpur, Maharashtra  
 - 👑 **Winner – Techno Byte 2K24 Logo Design Competition**  
-- 🏆 **Best Campaigning Award – Techno Byte 2K24**
-- ☁️ **Oracle Certified OCI Foundations Associate**
-- 📜 **NPTEL Certified – Cloud Computing (IIT Kharagpur)**
-- 🐍 **SWAYAM Certified – Python (IIT Guwahati)**
-- 🔐 **IIT Certified – Cryptography & Network Security**
-- 📘 **Research Published – Net Shield**
+- 🏆 **Best Campaigning Award – Techno Byte 2K24**  
+- ☁️ **Oracle Certified – OCI Foundations Associate**  
+- 📜 **NPTEL Certified – Cloud Computing (IIT Kharagpur)**  
+- 🐍 **SWAYAM Certified – Python (IIT Guwahati)**  
+- 🔐 **IIT Certified – Cryptography & Network Security**  
+- 📘 **Research Published – Net Shield**  
 - 📗 **Research Published – PG Room Finder**
 
 ---
 
-## ⚙️ Tech Toolbox
+## ⚙️ Technical Expertise
 
-#### 💻 Languages
-`Java` · `Advanced Java` · `JavaScript` · `C` · `Python` · `SQL`
+<table align="center">
+<tr>
+<td width="50%">
 
-#### ⚙️ Backend
-`Spring Boot` · `Hibernate` · `JDBC` · `REST APIs` · `Node.js`
+### 💻 Programming & Backend
+- Java · Advanced Java · JavaScript · C · Python · SQL  
+- Spring Boot · Hibernate · JDBC · REST APIs · Node.js  
 
-#### 🎨 Frontend
-`React.js` · `HTML5` · `CSS3` · `JavaScript (ES6+)`
+### ☁️ Cloud & Security
+- Oracle Cloud Infrastructure (OCI)  
+- Docker · Cryptography & Network Security  
 
-#### 🗄️ Databases
-`MySQL` · `MongoDB` · `PostgreSQL (Basic)`
+</td>
+<td width="50%">
 
-#### 🧰 Tools & DevOps
-`Git` · `GitHub` · `Postman` · `Maven` · `JUnit` · `Jenkins` · `CI/CD`
+### 🎨 Frontend & Databases
+- React.js · HTML5 · CSS3 · JavaScript (ES6+)  
+- MySQL · MongoDB · PostgreSQL (Basic)  
 
-#### ☁️ Cloud & Security
-`Oracle Cloud Infrastructure` · `Docker` · `Cryptography & Network Security`
+### 🧰 Tools & DevOps
+- Git · GitHub · Postman · Maven · JUnit · Jenkins · CI/CD Pipelines  
 
-#### 📱 Mobile Development
-`Android (Java)` · `Mobile Application Development (MAD)`
+</td>
+</tr>
+</table>
 
-#### 💡 Soft Skills
-`Leadership` · `Problem Solving` · `Team Collaboration` · `Adaptability` · `Time Management` . 'Punctuality (Highly Disciplined)'
+### 📱 Mobile Development
+- Android (Java) · Mobile Application Development (MAD)
 
----
+### 💡 Professional Strengths
+- Leadership · Problem Solving · Analytical Thinking  
+- Team Collaboration · Adaptability · Time Management · Punctuality
+
 
 ## 💼 Major Professional & Academic Projects ⚙️⚡
 
@@ -99,6 +101,8 @@ I constantly refine my skills through **DSA + LeetCode practice + Deep project w
 | ⭐ **Wall of Fame – Six Phrase** | Recognized for exceptional performance & mentoring impact | **Oct 2025** |
 | 🎖 **Dashing Debut Award – Six Phrase** | Excellence in technical training delivery | **2025** |
 | 🥇 **Rank 1 – MCA (University & College Level)** | SVERI’s COE & PAHS University, Solapur | **2025** |
+| 🎓 **Meritorious Student – MCA 1st Year** | SVERI’s College of Engineering, Pandharpur, Maharashtra | **2024** |
+| 🎓 **Meritorious Student – MCA 2nd Year** | SVERI’s College of Engineering, Pandharpur, Maharashtra | **2025** |
 | 👑 **Winner – LOGO Design Competition (Techno Byte 2K24)** | Creative branding & design | **2024** |
 | 🏆 **Best Campaigning Award (Techno Byte 2K24)** | Leadership & team coordination | **2024** |
 | 📘 **Research – Net Shield** | Published at National Conference, Bidar | **2025** |
@@ -107,6 +111,7 @@ I constantly refine my skills through **DSA + LeetCode practice + Deep project w
 <p align="center">
   <img src="https://img.shields.io/badge/WALL%20OF%20FAME⭐-FF8C00?style=for-the-badge&logo=hackster&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Dashing%20Debut🏅-FFD700?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Meritorious%20Student%20(2x)%20🎓-2E8B57?style=for-the-badge&logo=academia&logoColor=white&labelColor=000000"/>
 </p>
 
 <p align="center"><b>✨ “Every achievement is a milestone on the journey of passion, perseverance, and purpose.” ✨</b></p>
@@ -169,20 +174,6 @@ Focus Areas:
 
 ---
 
-## 🪄 Tech Stack Badges ⚙️
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
----
 
 <h3 align="center">⚡✨ Code • Create • Inspire ✨⚡</h3>
 
