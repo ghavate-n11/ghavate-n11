@@ -128,31 +128,33 @@ Focus Areas:
 - Mentoring students in **Java + DBMS + MAD**
 
 ---
-
 ## ⚡ Stats & Progress
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ghavate-n11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="Nilesh's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghavate-n11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF" alt="Top Languages" />
 
 <!-- LeetCode Stats -->
-<img src="https://leetcard.jacoblin.cool/nilesh-ghavate?theme=dark&font=baloo&border=1&radius=8" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/nilesh-ghavate?theme=dark&font=baloo&border=0&radius=8" height="170"/>
 
-<!-- 🏅 LeetCode Badge -->
-<p>
-  <img src="https://leetcode.com/medal/?showImg=0&id=8439286&isLevel=false" alt="LeetCode Badge" width="180"/>
+<br><br>
+
+<!-- Coding Profiles -->
+<p align="center">
+  <a href="https://leetcode.com/u/nilesh-ghavate/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/nileshghavate11" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 <!-- Profile Views -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ghavate-n11&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=ghavate-n11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
+
 </div>
+
 
 ---
 
@@ -167,10 +169,24 @@ Focus Areas:
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:nileshghavate11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nileshghavate"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ghavate-n11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nileshghavate11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nileshghavate">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ghavate-n11">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/nilesh-ghavate/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nileshghavate11">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
+
+
 
 ---
 
