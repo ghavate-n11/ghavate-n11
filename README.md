@@ -1,6 +1,4 @@
-<h2 align="center">
-🌟 Industrial Tech Trainer & Mentor | Java Developer | University Rank Holder
-</h2>
+# 🌟 Industrial Tech Trainer & Mentor | Java Developer | University Rank Holder
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghavate-n11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -125,16 +123,17 @@ I constantly enhance my skills through **Data Structures & Algorithms, LeetCode 
 
 ## 💼 Major Professional & Academic Projects ⚙️⚡
 
-| 💡 Project                          | 🧾 Description                                                                         | 🛠️ Tech Stack                        |
+| 💡 Project | 🧾 Description | 🛠️ Tech Stack |
 | ----------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------- |
-| 🛡️ **Net Shield**                  | Real-time Network Traffic Analyzer to detect sniffing and security threats             | Spring Boot · React.js · MySQL · Nmap |
-| 🤖 **Automation Testing**           | Automated login → apply → logout workflow using Selenium                               | Java · Selenium · TestNG              |
-| 🏠 **PG Room Finder**               | Java desktop application for room search and management                                | Java Swing · MySQL                    |
-| 💉 **Blood Point App**              | Application connecting blood donors and seekers                                        | Java · MySQL                          |
-| ✈️ **Airline Helper**               | Flight booking and management application with CRUD operations                         | Java · MySQL                          |
-| 💻 **NILTECH Online Java Compiler** | Browser-based Java compiler and IDE for writing, compiling and executing Java programs | Java · React · Vite · Monaco Editor   |
+| 🏦 **FINAUSENTRY** | Intelligent Financial Crime & Anti-Money Laundering (AML) Monitoring Platform to detect suspicious financial transactions, identify potential fraud patterns, monitor financial threats, and support financial compliance. | Java · Spring Boot · React.js · MySQL · Spring Security · Hibernate · REST APIs · JWT |
+| 🛡️ **Net Shield** | Real-time Network Traffic Analyzer to detect sniffing and security threats | Spring Boot · React.js · MySQL · Nmap |
+| 🤖 **Automation Testing** | Automated login → apply → logout workflow using Selenium | Java · Selenium · TestNG |
+| 🏠 **PG Room Finder** | Java desktop application for room search and management | Java Swing · MySQL |
+| 💉 **Blood Point App** | Application connecting blood donors and seekers | Java · MySQL |
+| ✈️ **Airline Helper** | Flight booking and management application with CRUD operations | Java · MySQL |
+| 💻 **NILTECH Online Java Compiler** | Browser-based Java compiler and IDE for writing, compiling and executing Java programs | Java · React · Vite · Monaco Editor |
 
----
+
 
 ## 🧠 Research & Achievements 🏅
 
@@ -142,17 +141,17 @@ I constantly enhance my skills through **Data Structures & Algorithms, LeetCode 
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🏆+My+Achievements;💫+Proud+Moments+of+My+Journey" alt="Achievements Typing Animation"/>
 </p>
 
-| 🏅 Achievement                            | 📍 Details                                                  | 🗓️ Year     |
+| 🏅 Achievement | 📍 Details | 🗓️ Year |
 | ----------------------------------------- | ----------------------------------------------------------- | ------------ |
-| ⭐ **Wall of Fame – Six Phrase**           | Recognized for exceptional performance and mentoring impact | **Oct 2025** |
-| 🎖️ **Dashing Debut Award – Six Phrase**  | Excellence in technical training delivery                   | **2025**     |
-| 🥇 **Rank 1 – MCA**                       | University and college level achievement                    | **2025**     |
-| 🎓 **Meritorious Student – MCA 1st Year** | SVERI’s College of Engineering, Pandharpur                  | **2024**     |
-| 🎓 **Meritorious Student – MCA 2nd Year** | SVERI’s College of Engineering, Pandharpur                  | **2025**     |
-| 👑 **Winner – Logo Design Competition**   | Techno Byte 2K24                                            | **2024**     |
-| 🏆 **Best Campaigning Award**             | Techno Byte 2K24                                            | **2024**     |
-| 📘 **Research – Net Shield**              | Published at National Conference, Bidar                     | **2025**     |
-| 📗 **Research – PG Room Finder**          | Published at Techno-Societal Conference                     | **2024**     |
+| ⭐ **Wall of Fame – Six Phrase** | Recognized for exceptional performance and mentoring impact | **Oct 2025** |
+| 🎖️ **Dashing Debut Award – Six Phrase** | Excellence in technical training delivery | **2025** |
+| 🥇 **Rank 1 – MCA** | University and college level achievement | **2025** |
+| 🎓 **Meritorious Student – MCA 1st Year** | SVERI’s College of Engineering, Pandharpur | **2024** |
+| 🎓 **Meritorious Student – MCA 2nd Year** | SVERI’s College of Engineering, Pandharpur | **2025** |
+| 👑 **Winner – Logo Design Competition** | Techno Byte 2K24 | **2024** |
+| 🏆 **Best Campaigning Award** | Techno Byte 2K24 | **2024** |
+| 📘 **Research – Net Shield** | Published at National Conference, Bidar | **2025** |
+| 📗 **Research – PG Room Finder** | Published at Techno-Societal Conference | **2024** |
 
 <p align="center">
 
@@ -218,23 +217,19 @@ Aspiring to become a **Java Full Stack Developer** specializing in enterprise-gr
 
 ## 🌱 Currently Exploring
 
-* ☕ **Advanced Java & Core Java**
-* 🌱 **Spring Framework & Spring Boot**
-* ⚛️ **Full Stack Development – Spring Boot + React.js**
-* ☁️ **Cloud & DevOps – OCI, Docker & Jenkins**
+* ⚛️ **Full Stack Development**
 * 🧠 **Data Structures & Algorithms**
 * 💻 **LeetCode Problem Solving**
 * 🤖 **AI, Generative AI & LLM Technologies**
-* 👨‍🏫 **Mentoring students in Java & Android**
+  
 
 ---
-
 
 ## 🤝 Connect With Me
 
 <p align="center">
 
-  <a href="mailto:nileshghavate11@gmail.com">
+  <a href="mailto:ghavatenilesh3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
