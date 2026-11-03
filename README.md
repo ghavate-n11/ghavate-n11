@@ -125,14 +125,13 @@ I constantly enhance my skills through **Data Structures & Algorithms, LeetCode 
 
 | 💡 Project | 🧾 Description | 🛠️ Tech Stack |
 | ----------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------- |
-| 🏦 **FINAUSENTRY** | Intelligent Financial Crime & Anti-Money Laundering (AML) Monitoring Platform to detect suspicious financial transactions, identify potential fraud patterns, monitor financial threats, and support financial compliance. | Java · Spring Boot · React.js · MySQL · Spring Security · Hibernate · REST APIs · JWT |
+| 🏦 **FINAUSENTRY** | AI-Powered Intelligent Financial Crime & Anti-Money Laundering (AML) Monitoring Platform featuring suspicious transaction detection, fraud risk analysis, financial monitoring, and an AI chatbot for intelligent assistance, transaction insights, and AML-related queries. | Java · Spring Boot · React.js · MySQL · Spring Security · Hibernate · REST APIs · JWT · AI Chatbot · LLM Integration |
 | 🛡️ **Net Shield** | Real-time Network Traffic Analyzer to detect sniffing and security threats | Spring Boot · React.js · MySQL · Nmap |
 | 🤖 **Automation Testing** | Automated login → apply → logout workflow using Selenium | Java · Selenium · TestNG |
 | 🏠 **PG Room Finder** | Java desktop application for room search and management | Java Swing · MySQL |
 | 💉 **Blood Point App** | Application connecting blood donors and seekers | Java · MySQL |
 | ✈️ **Airline Helper** | Flight booking and management application with CRUD operations | Java · MySQL |
 | 💻 **NILTECH Online Java Compiler** | Browser-based Java compiler and IDE for writing, compiling and executing Java programs | Java · React · Vite · Monaco Editor |
-
 
 
 ## 🧠 Research & Achievements 🏅
@@ -221,7 +220,6 @@ Aspiring to become a **Java Full Stack Developer** specializing in enterprise-gr
 * 🧠 **Data Structures & Algorithms**
 * 💻 **LeetCode Problem Solving**
 * 🤖 **AI, Generative AI & LLM Technologies**
-  
 
 ---
 
